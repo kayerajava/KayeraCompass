@@ -1,0 +1,8 @@
+no_permission: '&#33f2ackCompass &8► &cBu komutu kullanmak için yeterli yetkin yok!'
+only_players: "&#33f2ackCompass &8► &cBu komutu yalnızca oyuncular kullanabilir!"
+tracking: "&#33f2ackCompass &8► &b{target} &fadlı oyuncuyu takip ediyorsun!"
+distance_message: "&#33f2ackCompass &8► &b{target} &fadlı oyuncu ile aranda &b{distance} blok &fvar!"
+player_not_found: "&#33f2ackCompass &8► &cOyuncu bulunamadı!"
+compass_set: "&#33f2ackCompass &8► &b{player} &fadlı oyuncuyu takip ediyorsun!"
+config_reloaded: "&#33f2ackCompass &8► &fConfig &bbaşarıyla &fyenilendi!"
+updatecheck: "&#33f2ackCompass &8► &#33f2acYeni güncelleme bulundu: {version}"

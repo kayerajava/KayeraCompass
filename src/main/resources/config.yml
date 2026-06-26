@@ -1,0 +1,9 @@
+# Main language of plugin. default = en
+# Available: en, tr
+locale: 'en'
+
+# Need permission to use /kc track command?
+# true is yes
+# false is no
+# Default is "false"
+track-command-permission: false

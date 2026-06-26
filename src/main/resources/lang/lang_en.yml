@@ -1,0 +1,8 @@
+no_permission: '&#33f2ackCompass &8► &cYou don''t have enough permission to use this command.'
+only_players: "&#33f2ackCompass &8► &cThis command is only for players."
+tracking: "&#33f2ackCompass &8► &fYou are tracking &b{target}"
+distance_message: "&#33f2ackCompass &8► &fDistance between you and &b{target} &fis &b{distance} blocks"
+player_not_found: "&#33f2ackCompass &8► &cPlayer is not found!"
+compass_set: "&#33f2ackCompass &8► &fYou are now tracking &b{player}&f!"
+config_reloaded: "&#33f2ackCompass &8► &fConfig reloaded &bsuccessfully!"
+updatecheck: "&#33f2ackCompass &8► &#33f2acNew version found: {version}"
